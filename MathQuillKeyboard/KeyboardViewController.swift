@@ -619,8 +619,8 @@ class KeyboardViewController: UIInputViewController, UITextViewDelegate, MFKBDel
             buttonYOffset = IPAD_AIR_PORTRAIT_BUTTON_Y_OFFSET
             xGap = IPAD_AIR_PORTRAIT_BUTTON_X_GAP
             yGap = IPAD_AIR_PORTRAIT_BUTTON_Y_GAP
-            buttonWidth = IPAD_AIR_PORTRAIT_BUTTON_WIDTH
-            buttonHeight = IPAD_AIR_PORTRAIT_BUTTON_HEIGHT
+//            buttonWidth = IPAD_AIR_PORTRAIT_BUTTON_WIDTH
+//            buttonHeight = IPAD_AIR_PORTRAIT_BUTTON_HEIGHT
             formulaWebView?.frame = CGRect(x: IPAD_AIR_PORTRAIT_FORMULA_X_OFFSET,
                                            y: IPAD_AIR_PORTRAIT_FORMULA_Y_OFFSET,
                                            width: IPAD_AIR_PORTRAIT_FORMULA_WIDTH,
@@ -631,8 +631,8 @@ class KeyboardViewController: UIInputViewController, UITextViewDelegate, MFKBDel
             buttonYOffset = IPAD_AIR_LANDSCAPE_BUTTON_Y_OFFSET
             xGap = IPAD_AIR_LANDSCAPE_BUTTON_X_GAP
             yGap = IPAD_AIR_LANDSCAPE_BUTTON_Y_GAP
-            buttonWidth = IPAD_AIR_LANDSCAPE_BUTTON_WIDTH
-            buttonHeight = IPAD_AIR_LANDSCAPE_BUTTON_HEIGHT
+//            buttonWidth = IPAD_AIR_LANDSCAPE_BUTTON_WIDTH
+//            buttonHeight = IPAD_AIR_LANDSCAPE_BUTTON_HEIGHT
             formulaWebView?.frame = CGRect(x: IPAD_AIR_LANDSCAPE_FORMULA_X_OFFSET,
                                            y: IPAD_AIR_LANDSCAPE_FORMULA_Y_OFFSET,
                                            width: IPAD_AIR_LANDSCAPE_FORMULA_WIDTH,
